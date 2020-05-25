@@ -1,0 +1,20 @@
+{
+  "name": "noise",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "typecheck": "tsc -p . --noEmit"
+  },
+  "dependencies": {
+    "@types/gl-matrix": "^2.4.5",
+    "@types/lodash": "^4.14.152",
+    "gl-matrix": "^3.3.0",
+    "lodash": "^4.17.15",
+    "parcel": "^1.12.4",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "glslify-bundle": "^5.1.1",
+    "glslify-deps": "^1.3.1",
+    "typescript": "^3.8.3"
+  }
+}
