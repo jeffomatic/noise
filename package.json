@@ -8,7 +8,7 @@
     "@types/gl-matrix": "^2.4.5",
     "@types/lodash": "^4.14.152",
     "gl-matrix": "^3.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "parcel": "^1.12.4",
     "prettier": "^2.0.5"
   },
